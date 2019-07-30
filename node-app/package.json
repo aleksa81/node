@@ -1,0 +1,17 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "express": "^4.17.1",
+    "sleep": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksa",
+  "license": "ISC"
+}
