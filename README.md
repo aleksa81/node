@@ -1,4 +1,4 @@
-# rabbitmq-test
+# Node test
 
 From powershell run this command in base directory:
 ```
