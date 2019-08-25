@@ -2,7 +2,7 @@ var amqp = require('amqplib/callback_api');
 const os = require('os')
 
 setTimeout(() => {
-    amqp.connect('amqp://rabbitmq:rabbitmq@node_es_rabbitmq_1', function (error0, connection) {
+    amqp.connect('amqp://rabbitmq:rabbitmq@node_rabbitmq_1', function (error0, connection) {
         if (error0) {
             throw error0;
         }
